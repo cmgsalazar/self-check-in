@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Are you hydrated?",
+        "yes": "Yes!",
+        "yes-text": "That’s great! Keep it up by having water nearby throughout the day. Your body and mind will thank you.",
+        "no": "No, I need a glass of water.",
+        "no-text": "Take a moment right now to get yourself a glass of water. Hydration affects your mood and energy levels significantly. If plain water isn’t your thing, adding lemon or cucumber can make it more enjoyable . Water is ideal, but don’t beat yourself up if you would rather have tea, soda, juice, or milk if that’ll be easier for you.",
+        "next-question": "OK, I’m now hydrated. What’s next?"
+    },
+
+    {
+        "question": "Have you eaten in the last three hours?",
+        "yes": "Yes, I have!",
+        "yes-text": "Be proud of yourself for taking care of this basic need.",
+        "no": "No, I should probably eat something soon.",
+        "no-text": "Your body needs fuel. Get some food — perhaps something with protein, not just simple carbs. And if there’s any specific food you crave, go for it! Even a small snack can help give you the energy to face challenges. Take your time. This page will wait for you.",
+        "next-question": "I’ve finished my meal. Time for the next question!"
+    },
+
+    {
+        "question": "Have you showered in the last day?",
+        "yes": "Yes, I feel fine.",
+        "yes-text": "A clean body can help create a clear mind. It’s a simple act of self-care that can make a significant difference in how you feel.",
+        "no": "No, I haven’t had the energy for that yet.",
+        "no-text": "Take a shower and put on fresh clothes. The water can be soothing, and feeling clean can give you a fresh perspective. But if you really don’t feel up to it, you can also simply wash your face or change your clothes. Even a quick five-minute reset can feel refreshing.",
+        "next-question": "I’m clean and ready for the next step!"
+    },
+
+    {
+        "question": "Have you stretched your legs in the last day?",
+        "yes": "Yes!",
+        "yes-text": "Wonderful! Moving your body, even a little, is beneficial. Physical movement releases endorphins and can help improve your mood. Even small amounts of movement can make a difference to your well-being.",
+        "no": "No, I’ve been pretty stationary today.",
+        "no-text": "Try to do so right now. If you don’t have the energy for a run or a trip to the gym, just walk around the block, then keep walking as long as you please. If the weather’s crap, you can do a quick jog in place in your room, or drive to a store nearby and go through the aisles you normally skip. Enjoy!",
+        "next-question": "I’m back from my physical activity. What’s next?"
+    },
+
+    {
+        "question": "Have you said something nice to someone in the last day?",
+        "yes": "Yes, I have.",
+        "yes-text": "That’s beautiful! Kindness creates positive connections. Spreading kindness not only brightens someone else’s day but can also lift your spirits. These small positive interactions build a more supportive world around you.",
+        "no": "No, I haven’t had the chance for that.",
+        "no-text": "That’s fine. Try to do so now, whether online or in person. Make it genuine; wait until you see something really wonderful about someone, and tell them about it. Creating positive connections, even briefly, can help you feel more grounded and remind you of the good that still exists in the world.",
+        "next-question": "I’ve spread some kindness. What do I do next?"
+    },
+
+    {
+        "question": "Have you moved your body to music in the last day?",
+        "yes": "Yes, I’ve enjoyed some music.",
+        "yes-text": "Fantastic! Music and movement are powerful mood-lifters. Dancing or moving to music can shift your energy and perspective quickly. Even a small dance break can interrupt negative thought patterns and bring joy into your day.",
+        "no": "No, I haven’t felt like dancing lately.",
+        "no-text": "Put on a song that makes you feel something, and move to it. Jog for the duration of a song at your favorite tempo, or just dance around the room for the duration of an upbeat song. No one’s watching — this is just for you.",
+        "next-question": "Done! Let’s keep going!"
+    },
+
+    {
+        "question": "Have you cuddled a living being in the last two days?",
+        "yes": "Yes!",
+        "yes-text": "Physical touch is healing and comforting. Physical contact releases oxytocin, which helps reduce stress and creates feelings of comfort and safety. Whether it’s a person or a pet, these connections matter.",
+        "no": "No, I’ve been feeling disconnected lately.",
+        "no-text": "If you can, do so. Don’t be afraid to ask for hugs from friends or friends’ pets. Most of them will enjoy the cuddles, too; you’re not imposing on them. Physical touch is a basic human need and can be incredibly grounding when you’re struggling.",
+        "next-question": "I’ve had some cuddle time. Next!"
+    },
+
+    {
+        "question": "Have you seen a therapist in the last few days?",
+        "yes": "Yes, I have.",
+        "yes-text": "That’s great self-care! Professional support is valuable. Therapy is an important tool for maintaining mental health. Be proud of yourself for taking this step to care for your well-being.",
+        "no": "No, I haven’t been to therapy or it’s been a while since my last session.",
+        "no-text": "Hang on until your next therapy session, and talk things through then. In the meantime, try using some coping strategies you’ve learned in previous sessions. If you don’t have a therapist, consider researching options when you have the energy.",
+        "next-question": "I have noted this. I’m ready for the next one!"
+    },
+
+    {
+        "question": "Have you changed any of your medications in the last couple of weeks, including skipped doses or a change to generic prescription brand?",
+        "yes": "Yes, that could be affecting how you feel right now.",
+        "yes-text": "Medication changes, even small ones, can have significant effects on your mood and energy. Be gentle with yourself during this adjustment period, and note changes you experience.",
+        "no": "No, my medication routine has been consistent.",
+        "no-text": "That’s good to know. If you’re on medication, continuing your regular schedule is important. If you’re experiencing difficult feelings that persist, consider reaching out to your healthcare provider if they continue.",
+        "next-question": "Time for the next question!"
+    },
+
+    { 
+        "question": "Are you sleepy and fatigued but resisting going to sleep?",
+        "yes": "Yes, I’m fighting sleep.",
+        "yes-text": "Your body is telling you something important. Sometimes the most productive thing you can do is rest. Pushing through extreme fatigue rarely leads to quality work or thinking.",
+        "no": "No, I’m doing OK right now.",
+        "no-text": "If you do start feeling this way, put on pajamas, make yourself cozy in bed with a teddy bear and the sound of falling rain, and close your eyes for 15 minutes — no electronic screens allowed. If you’re still awake after that, you can get up again; no pressure.",
+        "next-question": "What’s next?"
+    },
+
+    {
+        "question": "Do you feel ineffective?",
+        "yes": "Yes, I do, actually.",
+        "yes-text": "Many people feel this way sometimes; you’re not alone. This feeling often does not match reality. Even small actions count, and some days just getting through the day is an achievement worth recognizing. And if you’ve done the previous check-ins, then that counts, too. Congratulate yourself!",
+        "no": "No, I feel awesome!",
+        "no-text": "That’s great! Keep that positive momentum going. Small wins build momentum and can help you feel more in control.",
+        "next-question": "I’ve finished my meal. Time for the next question!"
+    },
+
+    {
+        "question": "Do you feel unattractive?",
+        "yes": "Yes, I do.",
+        "yes-text": "Remember that this feeling and thought are not facts. Try taking a selfie and sending it to your friends and loved ones. Our perception of ourselves is often much harsher than how others see us.",
+        "no": "No, I’m feeling great about my appearance right now.",
+        "no-text": "That’s wonderful. Remember that confidence and kindness make anyone more beautiful.",
+        "next-question": "I feel better about myself now. Moving along."
+    },
+
+    {
+        "question": "Do you feel paralyzed by indecision?",
+        "yes": "Yes, I’m struggling.",
+        "yes-text": "That’s a difficult feeling, but know that it’s temporary and surmountable. Sometimes taking imperfect action is better than no action. Give yourself a few minutes to sit back and figure out a game plan. If a particular decision or problem is still a roadblock, you can set it aside for now and pick something else that seems doable.",
+        "no": "Not really. I’m doing all right!",
+        "no-text": "Great! Being able to make decisions helps you move forward.",
+        "next-question": "Good! What’s next?"
+    },
+
+    {
+        "question": "Have you overexerted yourself lately — physically, emotionally, socially, or intellectually?",
+        "yes": "Yes, I’ve been pushing myself too hard.",
+        "yes-text": "It’s important to recognize when you’ve pushed too hard. Being aware of your limits is a strength, not a weakness. Recovery and rest are essential parts of any sustainable effort, not just time off from real life.",
+        "no": "No, I am doing pretty well.",
+        "no-text": "If you do push too hard, remember that it can take a toll that lingers for days. Give yourself a break in that area, whether it’s physical rest, taking time alone, or relaxing with some silly entertainment. Your future self will thank you for this care.",
+        "next-question": "What’s the next question?"
+    },
+
+    {
+        "question": "Have you waited a week?",
+        "yes": "Yes, it’s been a while, and I still feel bad.",
+        "yes-text": "You’ve shown patience and resilience. That matters. If you’ve been feeling low for over a week and have tried these self-care strategies, consider reaching out for additional support from friends, family, or professionals. Persistence and resilience don’t mean you have to struggle alone.",
+        "no": "No, it hasn’t been that long yet.",
+        "no-text": "Sometimes our perception of life can get skewed, but time can change our perspective. Keep yourself going one day at a time, whatever it takes, and see if you still feel the same way after a week. Be gentle with yourself in the meantime.",
+        "next-question": "I’ve gone through all the questions. What now?"
+    }
+]
