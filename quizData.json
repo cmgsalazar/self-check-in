@@ -4,7 +4,7 @@
         "yes": "Yes!",
         "yes-text": "That’s great! Keep it up by having water nearby throughout the day. Your body and mind will thank you.",
         "no": "No, I need a glass of water.",
-        "no-text": "Take a moment right now to get yourself a glass of water. Hydration affects your mood and energy levels significantly. If plain water isn’t your thing, adding lemon or cucumber can make it more enjoyable . Water is ideal, but don’t beat yourself up if you would rather have tea, soda, juice, or milk if that’ll be easier for you.",
+        "no-text": "Take a moment right now to get yourself a glass of water. Hydration affects your mood and energy levels significantly. If plain water isn’t your thing, adding lemon or cucumber can make it more enjoyable. Water is ideal, but don’t beat yourself up if you would rather have tea, soda, juice, or milk if that’ll be easier for you.",
         "next-question": "OK, I’m now hydrated. What’s next?"
     },
 
@@ -73,7 +73,7 @@
 
     {
         "question": "Have you changed any of your medications in the last couple of weeks, including skipped doses or a change to generic prescription brand?",
-        "yes": "Yes, that could be affecting how you feel right now.",
+        "yes": "Yes, that could be affecting how I feel right now.",
         "yes-text": "Medication changes, even small ones, can have significant effects on your mood and energy. Be gentle with yourself during this adjustment period, and note changes you experience.",
         "no": "No, my medication routine has been consistent.",
         "no-text": "That’s good to know. If you’re on medication, continuing your regular schedule is important. If you’re experiencing difficult feelings that persist, consider reaching out to your healthcare provider if they continue.",
@@ -86,7 +86,7 @@
         "yes-text": "Your body is telling you something important. Sometimes the most productive thing you can do is rest. Pushing through extreme fatigue rarely leads to quality work or thinking.",
         "no": "No, I’m doing OK right now.",
         "no-text": "If you do start feeling this way, put on pajamas, make yourself cozy in bed with a teddy bear and the sound of falling rain, and close your eyes for 15 minutes — no electronic screens allowed. If you’re still awake after that, you can get up again; no pressure.",
-        "next-question": "What’s next?"
+        "next-question": "I’m rested. What’s next?"
     },
 
     {
@@ -95,7 +95,7 @@
         "yes-text": "Many people feel this way sometimes; you’re not alone. This feeling often does not match reality. Even small actions count, and some days just getting through the day is an achievement worth recognizing. And if you’ve done the previous check-ins, then that counts, too. Congratulate yourself!",
         "no": "No, I feel awesome!",
         "no-text": "That’s great! Keep that positive momentum going. Small wins build momentum and can help you feel more in control.",
-        "next-question": "I’ve finished my meal. Time for the next question!"
+        "next-question": "I’ll bear that in mind. Time for the next question!"
     },
 
     {
