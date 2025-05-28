@@ -1,6 +1,7 @@
 // initializing
+let quizData = [];
 let questionCounter = 0;
-const totalQuestions = quizData.length;
+const totalQuestions = 0;
 let currentQuizData = null;
 
 // DOM elements
@@ -87,13 +88,18 @@ function initializeQuiz() {
     updateProgress();
 }
 
-window.onload = initializeQuiz;
+// window.onload = initializeQuiz;
 
 // load external JSON
 fetch("quizData.json")
 .then(response => response.json())
 .then(json => {
     quizData = json;
+    totalQuestions = quizData.length;
     initializeQuiz();
 })
-.catch(error => console.error("Error loading JSON:", error));
+.catch(error => {
+    console.error("Error loading JSON:", error);
+    // error message
+    questionEl.textContent = "Sorry, there was an error loading the quiz. Kindly refresh the page.";
+});
