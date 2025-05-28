@@ -84,6 +84,7 @@ function restartQuiz() {
 
 // initializing quiz
 function initializeQuiz() {
+    totalQuestions = quizData.length;
     loadQuestion();
     updateProgress();
 }
