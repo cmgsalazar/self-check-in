@@ -91,9 +91,9 @@ window.onload = initializeQuiz;
 
 // load external JSON
 fetch("quizData.json")
-    .then(response => response.json())
-    .then(json => {
-        quizData = json;
-        initializeQuiz();
-    });
-    .catch(error => console.error("Error loading JSON:", error));
+.then(response => response.json())
+.then(json => {
+    quizData = json;
+    initializeQuiz();
+})
+.catch(error => console.error("Error loading JSON:", error));
