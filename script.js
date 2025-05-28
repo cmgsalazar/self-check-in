@@ -1,7 +1,7 @@
 // initializing
 let quizData = [];
 let questionCounter = 0;
-const totalQuestions = 0;
+let totalQuestions = 0;
 let currentQuizData = null;
 
 // DOM elements
